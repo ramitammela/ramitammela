@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramitammela
 - 👀 I’m interested in ... Game development, Unity & Unreal Engine, Graphic design & Programming
-- 🌱 I’m currently learning ... Unreal Engine
+- 🌱 I’m currently learning ... Unreal Engine, 🇯🇵 language
 
 <!---
 ramitammela/ramitammela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
