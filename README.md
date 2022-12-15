@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Korpus: Buried over the Black Soil
 **Year: 2020  
-Genre: Horror
+Genre: Horror  
 Role: Character Artist, Particle Effects**
 
 https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=y5q8XZKke-Y
 
 ### Project 3D SHMUP (work in progress)
 **Year: 2022->  
-Genre: SHMUP/Shoot 'em up
+Genre: SHMUP/Shoot 'em up  
 Solo Project**
 
 <br/><br/>
