@@ -20,7 +20,7 @@ https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/
 https://korpus.itch.io/korpus  
 https://www.youtube.com/watch?v=y5q8XZKke-Y
 
-[![Korpus: Buried over the Black Soil - Release Trailer](https://user-images.githubusercontent.com/33514265/207888379-4041ede5-d0bd-42f8-b58a-cb67bdf42ebd.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Korpus: Buried over the Black Soil - Release Trailer")
+[![Korpus: Buried over the Black Soil - Release Trailer](https://user-images.githubusercontent.com/33514265/207888379-4041ede5-d0bd-42f8-b58a-cb67bdf42ebd.png)](https://www.youtube.com/watch?v=y5q8XZKke-Y "Korpus: Buried over the Black Soil - Release Trailer")
 
 ##
 
