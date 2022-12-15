@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 # Games 🎮
 
 ### Korpus: Buried over the Black Soil
-##### Year: 2020 
-##### Role: Character Artist
+**Year: 2020  
+Role: Character Artist**
 
 https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
 https://korpus.itch.io/korpus  
@@ -25,8 +25,8 @@ https://www.youtube.com/watch?v=y5q8XZKke-Y
 ##
 
 ### Project 3D SHMUP (work in progress)
-##### Year: 2022->
-##### Solo Project
+**Year: 2022->  
+Solo Project**
 
 <br/><br/>
 ***
@@ -36,20 +36,26 @@ https://www.youtube.com/watch?v=y5q8XZKke-Y
 # Software 💿
 
 ### PhotoWidget
-##### Year: 2022
-##### Solo Project
+**Year: 2022  
+Solo Project**
+
+
 https://github.com/ramitammela/EasyRead
 
 ##
 
 ### SourceTool
-##### Year: 2022
-##### Solo Project
+**Year: 2022  
+Solo Project**
+
+
 https://github.com/ramitammela/SourceTool
 
 ##
 
 ### EasyRead
-##### Year: 2017
-##### Solo Project
+**Year: 2017  
+Solo Project**
+
+
 https://github.com/ramitammela/EasyRead
