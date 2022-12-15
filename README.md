@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Games 🎮
 
-### Korpus: Buried over the Black Soil on Steam
+### Korpus: Buried over the Black Soil
 ##### Year: 2020 
 ##### Role: Character Artist
 
