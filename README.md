@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Korpus: Buried over the Black Soil
 **Year: 2020  
 Genre: Horror  
-Role: Character Artist, Particle Effects**
+Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**
 
 https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
 https://korpus.itch.io/korpus  
@@ -42,7 +42,7 @@ Solo Project**
 Solo Project**
 
 
-https://github.com/ramitammela/EasyRead
+https://github.com/ramitammela/PhotoWidget
 
 ##
 
