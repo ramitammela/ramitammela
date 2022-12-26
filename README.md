@@ -17,9 +17,15 @@ You can click the Preview link to take a look at your changes.
 Genre: Horror  
 Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**
 
-https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
-https://korpus.itch.io/korpus  
-https://www.youtube.com/watch?v=y5q8XZKke-Y
+**Steam page:** https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
+**itch.io page:** https://korpus.itch.io/korpus  
+**Trailer:** https://www.youtube.com/watch?v=y5q8XZKke-Y  
+
+Characters of Korpus:  
+1 https://www.artstation.com/artwork/baY0Rd  
+2 https://www.artstation.com/artwork/mqKOoY  
+3 https://www.artstation.com/artwork/Jl8w0a
+
 
 [![Korpus: Buried over the Black Soil - Release Trailer](https://user-images.githubusercontent.com/33514265/207888379-4041ede5-d0bd-42f8-b58a-cb67bdf42ebd.png)](https://www.youtube.com/watch?v=y5q8XZKke-Y "Korpus: Buried over the Black Soil - Release Trailer")
 
