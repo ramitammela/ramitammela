@@ -42,11 +42,11 @@ Solo Project**
 https://github.com/ramitammela/Project-SHMUP
 
 ### Other:
-**Reef Chase**
+**Reef Chase**  
 **Role:** Programming, Post Processing & Shaders  
 **Video:** https://www.youtube.com/watch?v=bBu1j__csis  
 
-Unreal Engine - Learning
+Unreal Engine - Learning  
 Basics course: Video - https://www.youtube.com/watch?v=Qb38O25uu24  
 Advance course: Video - https://www.youtube.com/watch?v=VjlYdMRZ2N8
 
