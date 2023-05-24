@@ -14,10 +14,24 @@ You can click the Preview link to take a look at your changes.
 
 # Games 🎮
 
+##
+
+### Tamago Run! (work in progress)
+**Year: 2023-  
+Genre: Platformer  
+Solo Project**
+
+
+https://github.com/ramitammela/tamagorun
+
+##
+
+
 ### Korpus: Buried over the Black Soil
 **Year: 2020  
 Genre: Horror  
-Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**
+Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**  
+**Commercial Game**
 
 **Steam page:** https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
 **itch.io page:** https://korpus.itch.io/korpus  
@@ -34,7 +48,7 @@ Characters of Korpus:
 ##
 
 ### Project 3D SHMUP (work in progress)
-**Year: 2022->  
+**Year: 2022-
 Genre: SHMUP/Shoot 'em up  
 Solo Project**
 
