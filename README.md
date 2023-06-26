@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramitammela
-- 👀 I’m interested in ... Game development, Unity & Unreal Engine, Programming & Graphic design
-- 🌱 I’m currently learning ... Unreal Engine, 🇯🇵 japanese (JLPT N3 in 2023)
+- 👀 I’m interested in ... Game / Software development, Unity Engine & Unreal Engine, Programming & Graphic design
+- 🌱 I’m currently learning ... Unreal Engine and 🇯🇵 Japanese language (taking JLPT N3 test in december 2023)
 
 Graduated in december 2022. Looking for job
 
@@ -43,9 +43,6 @@ Characters of Korpus:
 3 https://www.artstation.com/artwork/Jl8w0a
 
 ![korpusgame](https://cdn.akamai.steamstatic.com/steam/apps/1236190/header.jpg)
-
-trailer - https://www.youtube.com/watch?v=y5q8XZKke-Y
-
 
 ##
 
