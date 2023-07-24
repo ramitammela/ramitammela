@@ -73,6 +73,17 @@ Advance course: Video - https://www.youtube.com/watch?v=VjlYdMRZ2N8
 
 # Software 💿
 
+##
+
+### MiniCinema3D (work in progress)
+**Year: Summer 2023 -  
+Solo Project**
+
+
+https://github.com/ramitammela/MiniCinema3D
+
+##
+
 ### URLpicSaver
 **Year: 2023  
 Solo Project**
