@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ramitammela
 - 👀 I’m interested in ... Game / Software development, Unity Engine & Unreal Engine, Programming & Graphic design
-- 🌱 I’m currently learning ... Unreal Engine and 🇯🇵 Japanese language (taking JLPT N3 test in december 2023)
+- 🌱 I’m currently learning ... Unreal Engine, 🇯🇵 Japanese language (taking JLPT N3 test in December 2023)
 
-Graduated in december 2022. Looking for job
+Graduated in december 2022 from Kajaani University of Applied Sciences (Game Industry). Looking for programming job
 
 <!---
 ramitammela/ramitammela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,6 @@ https://github.com/ramitammela/tamagorun
 
 ##
 
-
 ### Korpus: Buried over the Black Soil
 **Year: 2020  
 Genre: Horror  
@@ -37,29 +36,14 @@ Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**
 **itch.io page:** https://korpus.itch.io/korpus  
 **Trailer:** https://www.youtube.com/watch?v=y5q8XZKke-Y  
 
-Characters of Korpus:  
-1 https://www.artstation.com/artwork/baY0Rd  
-2 https://www.artstation.com/artwork/mqKOoY  
-3 https://www.artstation.com/artwork/Jl8w0a
-
 ![korpusgame](https://cdn.akamai.steamstatic.com/steam/apps/1236190/header.jpg)
-
-##
-
-### Project 3D SHMUP (work in progress)
-**Year: 2022-
-Genre: SHMUP/Shoot 'em up  
-Solo Project**
-
-
-https://github.com/ramitammela/Project-SHMUP
 
 ##
 
 ### Other:
 **Reef Chase**  
 **Role:** Programming, Post Processing & Shaders  
-**Video:** https://www.youtube.com/watch?v=bBu1j__csis  
+**Video:** https://www.youtube.com/watch?v=bBu1j__csis    
 
 Unreal Engine - Learning  
 Basics course: Video - https://www.youtube.com/watch?v=Qb38O25uu24  
@@ -76,7 +60,7 @@ Advance course: Video - https://www.youtube.com/watch?v=VjlYdMRZ2N8
 ##
 
 ### MiniCinema3D (work in progress)
-**Year: Summer 2023 -  
+**Year: Summer 2023 - Fall 2023 (estimate)  
 Solo Project**
 
 
