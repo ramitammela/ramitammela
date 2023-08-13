@@ -14,6 +14,16 @@ You can click the Preview link to take a look at your changes.
 
 # Games 🎮
 
+
+##
+
+### Japanese Vocab/Kanji/Quiz/JLPT learning app (work in progress)
+**Year: 2023-  
+Genre: Learning with Gamification  
+Solo Project**
+
+https://github.com/ramitammela/JLPTLearnerApp
+
 ##
 
 ### Tamago Run! (work in progress)
