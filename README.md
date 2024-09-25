@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ramitammela
-- 👀 I’m interested in ... Game / Software development, Unity Engine & Unreal Engine, Programming & Graphic design
-- 🌱 I’m currently learning ... Unreal Engine, 🇯🇵 Japanese language (taking JLPT N3 test in December 2023)
 
-Graduated in december 2022 from Kajaani University of Applied Sciences (Game Industry). Looking for programming job
+🛠️ 𝗦𝗸𝗶𝗹𝗹𝘀: Game / Software development, Unity & Unreal Engine, 3D & Graphics. C#  
+🌱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Unreal Engine, 🇯🇵 Japanese language.  
+👨‍🎓 𝗦𝗰𝗵𝗼𝗼𝗹: Graduated in December 2022 from Kajaani University of Applied Sciences (Game Industry).  
+💻 𝗪𝗼𝗿𝗸: Currently working as specialist, 3D-Modeler/Graphic artist.
 
 <!---
 ramitammela/ramitammela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ https://github.com/ramitammela/tamagorun
 **Year: 2020  
 Genre: Horror  
 Role: Character Artist (Design & 3D-modeling & Texturing) , Particle Effects**  
-**Commercial Game**
+**Commercial Game 💰**
 
 **Steam page:** https://store.steampowered.com/app/1236190/Korpus_Buried_over_the_Black_Soil/  
 **itch.io page:** https://korpus.itch.io/korpus  
