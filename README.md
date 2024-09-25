@@ -14,6 +14,15 @@ You can click the Preview link to take a look at your changes.
 
 # Games 🎮
 
+### Nordplus VR Speech Simulation Game  
+**Year: 2023-2024  
+Genre: VR, Language Learning  
+Role: 3D-Modeler, Character Artist, Technical Artist, Character's Blueprints**  
+
+Project creates an innovative Virtual Reality teaching and learning method for higher education students. The project’s main objectives are to strengthen students’ skills in Nordic languages, develop virtual pedagogies and inter-Nordic cooperation in the Higher Education context, and support Nordic minority language vitality and use.
+
+
+https://www.frostbit.fi/en/portfolio/vr-speech-sim/
 
 ##
 
